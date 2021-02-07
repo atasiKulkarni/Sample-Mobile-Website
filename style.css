@@ -1,0 +1,15 @@
+.top-section-container
+{
+    display: flex;
+}
+#top-left-section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h3
+{
+    text-align: center;
+}
